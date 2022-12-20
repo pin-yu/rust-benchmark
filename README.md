@@ -1,5 +1,5 @@
 # Rust Benchmark
-This repo shows benchmark results for some Rust functions or features because I wonder the better usage for the performance.
+This repo shows benchmark results for some Rust functions and features because I wonder the better usage for the performance.
 
 ## Table of Content
 - ["".to_owned vs "".to_string](#benchmark-1)
